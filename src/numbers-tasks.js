@@ -634,7 +634,6 @@ function getCountOfOddNumbers(number) {
     if (i % 2 !== 0) {
       count += 1;
     }
-    console.log(i, count);
   }
   return count;
 }
